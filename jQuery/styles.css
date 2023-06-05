@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(43, 109, 167);
+}
+.h-h1 {
+    font-size: 9rem;
+    color: aquamarine;
+    font-style: italic;
+}
+.bigMargin {
+    margin: 50px;
+}
